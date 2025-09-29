@@ -1,0 +1,1 @@
+Small repo for both file sharing across my devices and for general public knowledge on how to solve various types of problems in space sciences. This is not an actively maintained repo, and serves more as archival repo.
