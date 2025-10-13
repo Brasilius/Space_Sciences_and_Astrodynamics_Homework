@@ -1,0 +1,7 @@
+[project]
+name = "hw4"
+version = "0.1.0"
+description = "HW 4 for space sciences"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["numpy"]
